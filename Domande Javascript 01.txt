@@ -1,0 +1,8 @@
+1) Cosè un algoritmo?
+Un algoritmo racchiude una serie di istruzioni che vengono effettuate quando si verificano delle condizioni. Si tratta di una serie di passagi da eseguire per arrivare ad un obbiettivo.
+
+2) Cosè una variabile?
+Una variabile è un contenitore che ci permette di salvare dei dati e di dargli un etichetta. Ci sono 3 opzioni per dichiarare una variabile e sono let (variabile che si può sovrascrivere) const (Variabile che rimane constante) var (primo modo di dichiarare una variabile)
+
+3) Undefined e null sono la stessa cosa? 
+No non sono la stessa cosa. Undefined rappresenta una variabile che è stata dichiarata, ma senza valore. Mentre null è una variabile che ha un valore nullo. La differenza principale è che null ha un valore, anche se nullo, mentre undefined non ha un valore.
